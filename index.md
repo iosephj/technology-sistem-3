@@ -21,6 +21,8 @@ version: "24/04/25"
 
 - [Calibre](caliper.html)
 
+- [Measuring and control instruments](measuring_control_instruments.html)
+
 
 <span hidden>Fin archivo</span>
 
