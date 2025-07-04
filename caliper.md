@@ -4,8 +4,8 @@ autor: "José Juarez"
 version: "21/06/25"
 ---
 
-<span hidden>Local path of the file: "H:/im/stec/"</span>
-<span hidden>Local path of images: "H:/im/stec/_i/"</span>
+<span hidden>Local path of the file: "H:/im/stec3/"</span>
+<span hidden>Local path of images: "H:/im/stec3/_i/"</span>
 
 <br><br>
 
@@ -58,7 +58,7 @@ Repasa [aquí](https://www.youtube.com/watch?v=2pmfGckSpjc).
 
 ## Otros tips sobre el calibre
 
-Observa [aquí](https://www.youtube.com/watch?v=2pmfGckSpjc) como se limpia y comprueba el buen estado de un calibre.
+Observa [aquí](https://www.youtube.com/watch?v=sxw9fTV8bJ8) como se limpia y comprueba el buen estado de un calibre.
 
 
 <!-- HTML style definitions -->
