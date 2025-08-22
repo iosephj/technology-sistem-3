@@ -23,6 +23,8 @@ version: "24/04/25"
 
 - [Measuring and control instruments](measuring_control_instruments.html)
 
+- [Hand tools basics: files](hand_tools_basics_files.html)
+
 
 <span hidden>Fin archivo</span>
 
