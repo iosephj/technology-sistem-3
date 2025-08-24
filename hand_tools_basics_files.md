@@ -91,7 +91,7 @@ Primero unas palabras muy usadas que que conviene conocer su significado:
 Por ejemplo si quieres comprar una debes especificarla correctamente para que te entiendan. Un modo sería nombrar la forma, la longitud y el picado. Ejemplos:
 
 - Quiero una lima plana de 300 mm (30 cm) de picado doble y basto
-- Quiero una lima cuadrada de 200 mm (20 cm) de pidado sencillo y entrefino
+- Quiero una lima cuadrada de 200 mm (20 cm) de picado sencillo y entrefino
 
 Cada marca puede tener sus detalles y puedes fijarte en los catálogos pero lo que viste aquí bastará para conseguir lo que quieres.
 
